@@ -3279,7 +3279,7 @@ input, select, textarea {
 		-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 		transition: opacity 1s ease, transform 1s ease;
-		position: top;
+		position: relative;
 		cursor: default;
 		text-align: center;
 		z-index: 1;
@@ -3371,7 +3371,7 @@ input, select, textarea {
 		}
 
 		#intro + #header {
-			margin-top: -20rem;
+			margin-top: -10rem;
 		}
 
 			#intro + #header .logo {
