@@ -3258,7 +3258,7 @@ input, select, textarea {
 
 	#intro {
 		color: #ffffff;
-		padding: 6rem 4rem 6rem 4rem ;
+		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3279,7 +3279,7 @@ input, select, textarea {
 		-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 		transition: opacity 1s ease, transform 1s ease;
-		position: relative;
+		position: static;
 		cursor: default;
 		text-align: center;
 		z-index: 1;
@@ -3442,7 +3442,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#intro {
-				padding: 1rem 2rem 1rem 2rem ;
+				padding: 3rem 2rem 1rem 2rem ;
 				min-height: 80vh;
 			}
 
