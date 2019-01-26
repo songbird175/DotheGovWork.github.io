@@ -3218,7 +3218,7 @@ input, select, textarea {
 			#wrapper > .bg.fixed {
 				position: fixed;
 				width: 100vw;
-				height: 100vh;
+				height: 50vh;
 			}
 
 		#wrapper.fade-in:before {
@@ -3258,7 +3258,7 @@ input, select, textarea {
 
 	#intro {
 		color: #ffffff;
-		padding: 4rem 2rem 3rem 2rem ;
+		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
